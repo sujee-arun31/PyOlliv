@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PyOlliv/static/css/main.34275de8.css",
-    "main.js": "/PyOlliv/static/js/main.a1e55a70.js",
+    "main.css": "/PyOlliv/static/css/main.425c941d.css",
+    "main.js": "/PyOlliv/static/js/main.e0797ed1.js",
     "static/js/453.cd756f14.chunk.js": "/PyOlliv/static/js/453.cd756f14.chunk.js",
     "index.html": "/PyOlliv/index.html",
-    "main.34275de8.css.map": "/PyOlliv/static/css/main.34275de8.css.map",
-    "main.a1e55a70.js.map": "/PyOlliv/static/js/main.a1e55a70.js.map",
+    "main.425c941d.css.map": "/PyOlliv/static/css/main.425c941d.css.map",
+    "main.e0797ed1.js.map": "/PyOlliv/static/js/main.e0797ed1.js.map",
     "453.cd756f14.chunk.js.map": "/PyOlliv/static/js/453.cd756f14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34275de8.css",
-    "static/js/main.a1e55a70.js"
+    "static/css/main.425c941d.css",
+    "static/js/main.e0797ed1.js"
   ]
 }
