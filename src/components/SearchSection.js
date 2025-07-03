@@ -14,7 +14,7 @@ const SearchSection = () => (
       </h2>
       <form className="w-full flex flex-col md:flex-row items-center gap-4">
         {/* Where to */}
-        <div className="flex-1">
+        <div className="w-full md:flex-1">
           <label className="block text-gray-500 text-sm mb-1">Where to</label>
           <input
             type="text"
@@ -23,7 +23,7 @@ const SearchSection = () => (
           />
         </div>
         {/* Check-in */}
-        <div className="flex-1">
+        <div className="w-full md:flex-1">
           <label className="block text-gray-500 text-sm mb-1">Check-in</label>
           <input
             type="date"
@@ -31,7 +31,7 @@ const SearchSection = () => (
           />
         </div>
         {/* Check-out */}
-        <div className="flex-1">
+        <div className="w-full md:flex-1">
           <label className="block text-gray-500 text-sm mb-1">Check-out</label>
           <input
             type="date"
@@ -39,7 +39,7 @@ const SearchSection = () => (
           />
         </div>
         {/* Guests & Rooms */}
-        <div className="flex-1">
+        <div className="w-full md:flex-1">
           <label className="block text-gray-500 text-sm mb-1">Guests & Rooms</label>
           <input
             type="text"
@@ -50,7 +50,7 @@ const SearchSection = () => (
         {/* Search Button */}
         <button
           type="submit"
-          className="bg-orange-500 hover:bg-orange-600 text-white font-bold rounded-xl px-8 py-3 mt-2 md:mt-6 shadow transition"
+          className="w-full md:w-auto bg-orange-500 hover:bg-orange-600 text-white font-bold rounded-xl px-8 py-3 mt-2 md:mt-6 shadow transition"
         >
           SEARCH
         </button>
